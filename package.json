@@ -1,6 +1,7 @@
 {
   "name": "mcp-demo",
   "version": "1.0.0",
+  "private": true,
   "description": "Minimal local MCP demo server with prompts, tools, and resources",
   "type": "module",
   "main": "index.js",
